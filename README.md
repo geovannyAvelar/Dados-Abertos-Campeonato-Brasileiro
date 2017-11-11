@@ -10,8 +10,8 @@ O JSON segue a seguinte estrutura:
       "visitante": "Vasco",
       "data_partida": "29/03/2003",
       "hora_partida": "16h00",
-      "placar_visitante": 2,
       "placar_mandante": 4,
+      "placar_visitante": 2,
       "resultado": "vitoria_mandante",
       "estadio": "Brinco de Ouro", 
       "pontuacao_geral_mandante": { 
@@ -63,3 +63,6 @@ O JSON segue a seguinte estrutura:
 ```
 
 Sendo que a lista "partidas" pode conter entre dez e doze partidas, dependendo do ano. Os campos "pontuacao_geral_mandante" e "pontuacao_geral_visitante" guardam os dados da tabela do campeonato na data da partida. Os campos "hora_partida" e "estadio" podem constar vazios, pois tais dados nem sempre estão disponíveis.
+
+# Licença
+Esse projeto está sob os termos da The MIT License (MIT).
