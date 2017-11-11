@@ -1,5 +1,5 @@
-# Dados-Abertos-Campeonato-Brasileiro
-Dados abertos das partidas do Campeonato Brasileiro de Futebol desde 2003 no formato JSON (Javascript Object Notation). Retirados do repositório do openfootball, acesso via https://github.com/openfootball/br-brazil.
+# Dados abertos Campeonato Brasileiro
+Dados abertos das partidas do Campeonato Brasileiro de Futebol desde o início da era dos pontos corridos, em 2003. Arquivos no formato JSON (Javascript Object Notation). Retirados do repositório do openfootball, acesso via https://github.com/openfootball/br-brazil.
 
 O JSON segue a seguinte estrutura:
 
